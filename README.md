@@ -10,7 +10,7 @@ The project is deployed automatically using **GitHub Pages**.
 ## 🚀 Live Demo
 
 🔗 **Website:**
-[https://zaidfadel89.github.io/Train-7.index/]([https://zaidfadel89.github.io/Train-7.index/](https://zaidfadel1989.github.io/Train-7_app.index/)
+(https://zaidfadel1989.github.io/Train-7_app.index/)
 
 ---
 
